@@ -15,7 +15,6 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Program:
 
-
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 
 Developed by: Sabari Akash A
@@ -58,17 +57,22 @@ accuracy
 
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
-
 ## Output:
-![output](image.png)
-![output](image-1.png)
-![output](image-2.png)
-![output](image-3.png)
-![output](image-4.png)
-![output](image-5.png)
-![output](image-6.png)
+![output1](image.png)
 
-![output](image-7.png)
+![output2](image-1.png)
+
+![output3](image-2.png)
+
+![output4](image-3.png)
+
+![output5](image-4.png)
+
+![output6](image-5.png)
+
+![output7](image-6.png)
+
+![output8](image-7.png)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
