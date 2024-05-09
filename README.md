@@ -61,21 +61,21 @@ accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 ## Output:
-![output1](image.png)
-
+<img src=image.png width=500 heigth=300>
+<br>
 <img src=image-1.png width=400 heigth=300>
-
-<img src=image-2.png width=400 heigth=300>
-
-<img src=image-3.png width=400 heigth=300>
-
-<img src=image-4.png width=400 heigth=300>
-
-<img src=image-5.png width=400 heigth=300>
-
-<img src=image-6.png width=400 heigth=300>
-
-<img src=image-7.png width=400 heigth=300>
+<br>
+<img src=image-2.png width=200 heigth=200>
+<br>
+<img src=image-3.png width=200 heigth=200>
+<br>
+<img src=image-4.png width=500 heigth=300>
+<br>
+<img src=image-5.png width=300 heigth=200>
+<br>
+<img src=image-6.png width=200 heigth=100>
+<br>
+<img src=image-7.png width=200 heigth=100>
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
