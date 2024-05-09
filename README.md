@@ -1,4 +1,7 @@
-# Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
+<h3>Date:</h3>
+<h2>Exp: 06</h2>
+
+# Implementation of Decision Tree Classifier Model for Predicting Employee Churn
 
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
